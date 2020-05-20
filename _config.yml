@@ -34,6 +34,7 @@ navbar-links:
   Contact: "contact.html"
 
 avatar: "/assets/img/agnes-small.jpg"
+show-avatar: true
 round-avatar: true
 
 social-network-links:
@@ -46,11 +47,6 @@ markdown: kramdown
 theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
-
-share-links-active:
-  twitter: false
-  facebook: false
-  linkedin: false
 
 url-pretty: "corelka.fr"
 
@@ -80,10 +76,34 @@ title-separator: "-"
 date_format: "%-d %B %Y"
 timezone: "Europe/Paris"
 
+# Default YAML values (more information on Jekyll's site)  
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false  # add comments to all blog posts 		
+      show-share: false # add sharing buttons to all blog posts		
+      show-subscribe: falsee # add subscribe email to all blog posts
+      addthis-plugin: true
+      carbonads: true
+      datacampcourse: true
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
