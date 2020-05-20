@@ -13,22 +13,72 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Agnès Haasser
+email: agnes@corelka.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Consultante en qualité web
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  tut-tuuut
+
+language: fr
+
+# Theme settings
+# see https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
+navbar-links:
+  CV: "cv.html"
+  Qualité: "qualite-web.html"
+  Développement: "developpement.html"
+  Conférences: "conferences.html"
+  Contact: "contact.html"
+
+avatar: "/assets/img/agnes-small.jpg"
+round-avatar: true
+
+social-network-links:
+  email: "agnes@corelka.fr"
+  github: tut-tuuut
+  linkedin: agneshaasser
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
+
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: false
+
+url-pretty: "corelka.fr"
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-border-col: "#EAEAEA"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# Matomo (aka Piwik) Web statistics
+# Uncomment the following section to enable Matomo. The opt-out parameter controls
+# whether or not you want to allow users to opt out of tracking.
+#matomo:
+#  site_id: "9"
+#  uri: "demo.wiki.pro"
+#  opt-out: true
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
+# Ruby Date Format to show dates of posts
+date_format: "%-d %B %Y"
+timezone: "Europe/Paris"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
