@@ -19,10 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Consultante en qualité web
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  tut-tuuut
 
 language: fr
+
+author: Agnès Haasser
 
 # Theme settings
 # see https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
