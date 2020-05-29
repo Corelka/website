@@ -183,7 +183,7 @@ img {
 .navbar-custom .navbar-nav .nav-link:focus,
 .navbar-custom .navbar-nav .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-item:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: #FFF;
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -202,7 +202,6 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-weight: 800;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
@@ -239,8 +238,16 @@ img {
   }
 
   .navbar-expand-md .navbar-nav .nav-link {
-    padding-left: 0.9375rem;
-    padding-right: 0.9375rem;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: .1rem;
+    margin-left: .6rem;
+    margin-right: .6rem;
+    border-bottom: 2px solid rgba(255,255,255,0);
+    transition: .4s;
+  }
+  .navbar-expand-md .navbar-nav .nav-link:hover {
+      border-color: #fff;
   }
   .navbar-expand-md .navbar-nav .nav-item:last-child .nav-link {
     padding-right: 0;
