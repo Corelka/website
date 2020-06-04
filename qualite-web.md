@@ -15,25 +15,25 @@ Pour améliorer les sites qui me sont confiés, je m'appuie sur le référentiel
 
 La non-qualité coûte cher. Un site web mal structuré est mal référencé, ce qui résulte en un manque de trafic (et de CA). Ou alors, une information mal présentée quant à la disponibilité d'un produit sur un site e-commerce engendre des coûts supplémentaires en SAV. La perte de confiance qui s'ensuit a un impact négatif sur le taux de réachat.
 
-Tout cela engendre des pertes, des manques à gagner… bref, un coût difficile à mesurer, mais néanmoins conséquent. Investir dans une démarche qualité complète a un impact positif sur l'ensemble de l'expérience utilisateur, depuis le référencement naturel dans les moteurs de recherche jusqu'au taux de réachat après une première commande réussie. Vous fidéliserez peut-être même de nouveaux visiteurs, car le référentiel Opquast aide à tenir compte de tous les utilisateurs dans tous les contextes : handicaps, mobile, débit réduit…
+Tout cela engendre des pertes, des manques à gagner… bref, un coût difficile à mesurer, mais néanmoins conséquent. Investir dans une démarche qualité complète a un impact positif sur l'ensemble de l'expérience utilisateur, depuis le référencement naturel dans les moteurs de recherche jusqu'au taux de réachat après une première commande réussie. Vous fidéliserez même de nouveaux visiteurs, car le référentiel Opquast encourage à tenir compte de tous les utilisateurs dans tous les contextes : handicaps, mobile, débit réduit…
 
 ## Les services que je vous propose
 
-En résumé : je peux intervenir avant, pendant ou après le développement. Appelez-moi !
+En résumé : j'interviens avant, pendant ou après le développement. Appelez-moi !
 
 ### Consolidation des documents de conception
 
-Cahier des charges, spécifications fonctionnelles et techniques, prototypes, maquettes graphiques… Porter un œil attentif sur ces documents avant le début du développement peut vous faire gagner beaucoup de temps et d'argent.
+Cahier des charges, spécifications fonctionnelles et techniques, prototypes, maquettes graphiques… Porter un œil attentif sur ces documents avant le début du développement vous fait gagner beaucoup de temps et d'argent.
 
 ### Participation à l'intégration et au développement
 
-Je peux intervenir en conseil (par exemple en relisant les <i lang="en">Pull Requests</i> ou à travers une formation courte) et également participer à la production du code.
+J'interviens en conseil (par exemple en relisant les <i lang="en">Pull Requests</i> ou à travers une formation courte) ou en participant à la production du code.
 
 
 ### Audit qualité et correctifs
 
-Sur un site en production ou en préproduction, je peux réaliser un audit qualité à l'aide des 240 bonnes pratiques Opquast.
+Sur un site en production ou en préproduction, je réalise un audit qualité à l'aide des 240 bonnes pratiques Opquast.
 
-Après l'analyse, je vous remettrai un rapport et des recommendations de corrections.
+Après l'analyse, je vous remets un rapport et des recommendations de corrections.
 
-Au besoin, je peux également me charger de réaliser les correctifs purement techniques. Je vous guiderai pour les correctifs relatifs au contenu.
+Au besoin, je me charge de réaliser les correctifs purement techniques. Je vous guiderai pour les correctifs relatifs au contenu.
