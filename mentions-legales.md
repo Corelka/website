@@ -6,7 +6,7 @@ title: Mentions légales
 
 Corelka, SASU au capital de 5000 €, domiciliée au 20 rue Auguste-Charles Siméant, 69310 Pierre-Bénite, France.
 
-Contact : 06 88 23 22 66
+Contact : +33 6 30 89 86 81
 
 Courriel : agnes(@)corelka.fr
 
@@ -18,5 +18,5 @@ Github Pages – 88 Colin P Kelly Junior Street, San Francisco, CA 94107, United
 
 ## Activité
 
-- Numéro d'inscription au registre du commerce et des sociétés
-- Numéro individuel d'identification fiscale
+- Numéro d'inscription au registre du commerce et des sociétés : 883 887 564 RCS Lyon
+- Numéro de TVA intracommunautaire : FR88883887564
