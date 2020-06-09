@@ -1,5 +1,6 @@
 ---
 title: Développement web
+bodyclass: experience
 ---
 
 Développeuse web depuis 2010, j'ai travaillé dans des environnements variés avec des équipes et des projets de toutes tailles. Mon profil polyvalent et adaptable me permet de prendre en main un projet dans son ensemble, depuis la conception jusqu'à la mise en production.

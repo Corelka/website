@@ -922,3 +922,23 @@ pre {
 .homepage h2 {
   text-align: center;
 }
+
+.experience .container-md p + ul {
+  list-style: none;
+  font-weight: bold;
+}
+.experience .container-md p + ul > li > ul {
+  border-top: 2px solid {{ site.navbar-col | default: "#F5F5F5" }};
+}
+.experience .container-md p + ul ul li {
+  font-weight: normal;
+}
+@media (min-width: 700px) {
+  .experience .container-md p + ul {
+    column-count: 2;
+    column-gap: 1em;
+  }
+  .experience .container-md li {
+    break-inside: avoid;
+  }
+}
