@@ -2,8 +2,6 @@
 layout: null
 ---
 
-@import url("pygment_highlights.css");
-
 /* --- General --- */
 
 html {
@@ -906,4 +904,14 @@ pre {
   color: #808080;
   font-style: italic;
   font-size: 1rem;
+}
+
+/* Fix button color */
+.btn-primary {
+  background-color: #a80355;
+  border-color: #77023c;
+}
+.btn-primary:hover {
+  background-color: #77023c;
+  border-color: #57002b;
 }
