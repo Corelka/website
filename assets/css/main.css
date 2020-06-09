@@ -915,3 +915,10 @@ pre {
   background-color: #77023c;
   border-color: #57002b;
 }
+
+.homepage .intro-header .page-heading h1 {
+  font-size: 3rem;
+}
+.homepage h2 {
+  text-align: center;
+}
