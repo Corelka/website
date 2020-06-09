@@ -32,8 +32,8 @@ J'interviens en conseil (par exemple en relisant les <i lang="en">Pull Requests<
 
 ### Audit qualité et correctifs
 
-Sur un site en production ou en préproduction, je réalise un audit qualité à l'aide des 240 bonnes pratiques Opquast.
+Je réalise un audit qualité à l'aide des 240 bonnes pratiques Opquast auxquelles j'ajoute des analyses de performance. C'est intéressant à faire sur un site déjà en production qui ne donne pas satisfaction en termes de trafic, de CA ou de taux de réachat. C'est encore plus intéressant à faire avant que le site ne soit en production pour limiter un effet « coût du retard ».
 
-Après l'analyse, je vous remets un rapport et des recommendations de corrections.
+Au terme de mon travail d'analyse, je vous remets un rapport et des recommandations de corrections.
 
-Au besoin, je me charge de réaliser les correctifs purement techniques. Je vous guiderai pour les correctifs relatifs au contenu.
+Si nécessaire, je me charge de réaliser les correctifs purement techniques. Je vous guiderai pour les correctifs relatifs au contenu.
