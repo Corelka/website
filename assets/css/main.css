@@ -921,8 +921,12 @@ pre {
 }
 .homepage h2,
 .homepage h3,
-.img-container {
+.img-container,
+.contact-means {
   text-align: center;
+}
+.contact-means .img-container {
+  padding: 1.2em 0;
 }
 
 .experience .container-md p + ul {
