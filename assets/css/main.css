@@ -919,7 +919,9 @@ pre {
 .homepage .intro-header .page-heading h1 {
   font-size: 3rem;
 }
-.homepage h2 {
+.homepage h2,
+.homepage h3,
+.img-container {
   text-align: center;
 }
 

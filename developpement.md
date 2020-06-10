@@ -7,6 +7,10 @@ Développeuse web depuis 2010, j'ai travaillé dans des environnements variés a
 
 En outre, j'aime expliquer, écouter et partager : cela fait de moi un ajout intéressant dans une équipe junior, et une excellente intermédiaire pour fluidifier les relations entre les équipes fonctionnelles et techniques.
 
+<div class="img-container">
+<img src="/assets/img/undraw_version_control_9bpv.svg" alt="" width="400">
+</div>
+
 J'ai de l'expérience dans les domaines techniques suivants :
 
 * Côté serveur
@@ -47,6 +51,7 @@ J'ai de l'expérience dans les domaines techniques suivants :
         - TDD
         - BDD
         - CI
+        - Pair programming
     - Qualité web, gestion de projet
         - OpQuast
         - Aide à l'expression du besoin
