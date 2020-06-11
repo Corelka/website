@@ -28,7 +28,6 @@ author: Agnès Haasser
 # Theme settings
 # see https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml
 navbar-links:
-  CV: "cv.html"
   Qualité: "qualite-web.html"
   Développement: "developpement.html"
   Conférences: "conferences.html"
