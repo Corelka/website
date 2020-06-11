@@ -9,7 +9,7 @@ Un site web de qualité, ce n'est pas juste un site techniquement parfait ou gra
 
 Cela implique évidemment des aspects techniques, mais concerne également les choix graphiques et les contenus. La qualité web est l'affaire de tous les métiers du web.
 
-Pour améliorer les sites qui me sont confiés, je m'appuie sur le référentiel qualité Opquast. Il est constitué de 240 bonnes pratiques qui ont l'avantage d'être objectives, précises et consensuelles. Il se base sur le modèle VPTCS (Visibilité, Perception, Technique, Contenus, Service) qui aide à bien visualiser toutes les facettes de l'<abbr lang="en" title="User Experience">UX</abbr>, au delà de la seule <abbr lang="en" title="User interface">UI</abbr>.
+Pour améliorer les sites qui me sont confiés, je m'appuie sur le [référentiel qualité Opquast](https://checklists.opquast.com/fr/qualiteweb/). Il est constitué de 240 bonnes pratiques qui ont l'avantage d'être objectives, précises et consensuelles. Il se base sur le modèle VPTCS (Visibilité, Perception, Technique, Contenus, Service) qui aide à bien visualiser toutes les facettes de l'<abbr lang="en" title="User Experience">UX</abbr>, au delà de la seule <abbr lang="en" title="User interface">UI</abbr>.
 
 ## Pourquoi investir dans la qualité web
 
@@ -32,7 +32,7 @@ J'interviens en conseil (par exemple en relisant les <i lang="en">Pull Requests<
 
 ### Audit qualité et correctifs
 
-Je réalise un audit qualité à l'aide des 240 bonnes pratiques Opquast auxquelles j'ajoute des analyses de performance. C'est intéressant à faire sur un site déjà en production qui ne donne pas satisfaction en termes de trafic, de CA ou de taux de réachat. C'est encore plus intéressant à faire avant que le site ne soit en production pour limiter un effet « coût du retard ».
+Je réalise un audit qualité à l'aide des 240 bonnes pratiques Opquast auxquelles j'ajoute des analyses de performance. C'est intéressant à faire sur un site déjà en production qui ne donne pas satisfaction en termes de trafic, de CA ou de taux de réachat. C'est encore plus intéressant à faire avant que le site ne soit en production pour limiter un effet « [coût du retard](https://tut-tuuut.github.io/2014/05/18/cost-of-delay.html) ».
 
 Au terme de mon travail d'analyse, je vous remets un rapport et des recommandations de corrections.
 

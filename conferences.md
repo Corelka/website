@@ -8,7 +8,7 @@ Si l'un des sujets ci-dessous vous intéresse, parlons-en !
 
 ## 2020
 
-* **Recettes de communication efficace au travail** que j'aurais dû présenter à MiXiT (Lyon)… avant que la conférence ne soit annulée pour cause de pandémie. Il s'agissait de montrer comment j'ai adapté certaines recettes issues de la parentalité positive pour mieux communiquer au travail. Je ne désespère pas de réussir à aborder ce sujet en conférence à un autre moment.
+* **Recettes de communication efficace au travail** que j'aurais dû présenter à [MiXiT](https://mixitconf.org/) (Lyon)… avant que la conférence ne soit annulée pour cause de pandémie. Il s'agissait de montrer comment j'ai adapté certaines recettes issues de la parentalité positive pour mieux communiquer au travail. Je ne désespère pas de réussir à aborder ce sujet en conférence à un autre moment.
 
 ## 2018-2019
 
@@ -34,4 +34,4 @@ Si l'un des sujets ci-dessous vous intéresse, parlons-en !
 
 ## 2013
 
-* **De l'artisanat aux bases de l'industrialisation**, à Sud Web (Avignon). Pourquoi et comment j'ai insisté auprès de mon nouvel employeur pour automatiser les mises en production et utiliser git plus intensément.
+* **De l'artisanat aux bases de l'industrialisation**, à [Sud Web](https://sudweb.fr/2013/conferences.html) (Avignon). Pourquoi et comment j'ai insisté auprès de mon nouvel employeur pour automatiser les mises en production et utiliser git plus intensément.
