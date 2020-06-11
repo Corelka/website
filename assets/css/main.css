@@ -955,3 +955,8 @@ pre {
     break-inside: avoid;
   }
 }
+@media (min-width: 768px) and (max-width: 980px) {
+  .avatar-container {
+    display: none;
+  }
+}
