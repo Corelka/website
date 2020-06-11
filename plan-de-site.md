@@ -4,10 +4,9 @@ title: Plan du site
 ---
 
 - [Accueil](/)
-- [CV](cv.html)
-- [Qualité](qualite.html)
+- [Qualité](qualite-web.html)
 - [Développement](developpement.html)
 - [Conférences](conferences.html)
 - [Contact](contact.html)
 - [Mentions légales](mentions-legales.html)
-- [Plan du site](plan-du-site.html)
+- [Plan du site](plan-de-site.html)
