@@ -13,7 +13,7 @@ Pour améliorer les sites qui me sont confiés, je m'appuie sur le [référentie
 
 ## Pourquoi investir dans la qualité web
 
-La non-qualité coûte cher. Un site web mal structuré est mal référencé, ce qui résulte en un manque de trafic (et de CA). Ou alors, une information mal présentée quant à la disponibilité d'un produit sur un site e-commerce engendre des coûts supplémentaires en SAV. La perte de confiance qui s'ensuit a un impact négatif sur le taux de réachat.
+La non-qualité coûte cher. Un site web mal structuré est mal référencé, ce qui résulte en un manque de trafic (et de <abbr title="Chiffre d'affaires">CA</abbr>). Ou alors, une information mal présentée quant à la disponibilité d'un produit sur un site e-commerce engendre des coûts supplémentaires en <abbr title="service après-vente">SAV</abbr>. La perte de confiance qui s'ensuit a un impact négatif sur le taux de réachat.
 
 Tout cela engendre des pertes, des manques à gagner… bref, un coût difficile à mesurer, mais néanmoins conséquent. Investir dans une démarche qualité complète a un impact positif sur l'ensemble de l'expérience utilisateur, depuis le référencement naturel dans les moteurs de recherche jusqu'au taux de réachat après une première commande réussie. Vous fidéliserez même de nouveaux visiteurs, car le référentiel Opquast encourage à tenir compte de tous les utilisateurs dans tous les contextes : handicaps, mobile, débit réduit…
 

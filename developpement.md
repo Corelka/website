@@ -48,12 +48,12 @@ J'ai de l'expérience dans les domaines techniques suivants :
         - Scrum
         - Kanban
     - Qualité logicielle
-        - TDD
-        - BDD
-        - CI
-        - Pair programming
+        - <abbr lang="en" title="Test driven development">TDD</abbr>
+        - <abbr lang="en" title="Behaviour driven development">BDD</abbr>
+        - <abbr lang="en" title="continuous integration">CI</abbr>
+        - <span lang="en">Pair programming</span>
     - Qualité web, gestion de projet
-        - OpQuast
+        - Opquast
         - Aide à l'expression du besoin
 
 Je m'applique à faire en sorte que cette liste continue de s'allonger. Je sais m'adapter à un nouveau framework ou à un nouveau langage si le besoin se manifeste.
