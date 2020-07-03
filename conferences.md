@@ -8,11 +8,11 @@ Si l'un des sujets ci-dessous vous intéresse, parlons-en !
 
 ## 2020
 
-* **Recettes de communication efficace au travail** que j'aurais dû présenter à [MiXiT](https://mixitconf.org/) (Lyon)… avant que la conférence ne soit annulée pour cause de pandémie. Il s'agissait de montrer comment j'ai adapté certaines recettes issues de la parentalité positive pour mieux communiquer au travail. Je ne désespère pas de réussir à aborder ce sujet en conférence à un autre moment.
+* **Recettes de communication efficace au travail** que j'aurais dû présenter à [MiXiT](https://mixitconf.org/) (Lyon)… avant que la conférence ne soit annulée pour cause de pandémie. Il s'agissait de montrer comment j'ai adapté certaines recettes issues de la parentalité positive pour mieux communiquer au travail. Si tout se passe bien, je devrais donner cette conférence à Paris à l'automne 2020… Plus d'infos bientôt. ;)
 
 ## 2018-2019
 
-* **Tempête de boulettes géantes** : comment relativiser et éviter les erreurs humaines causant des incidents en production. [Le 4 octobre 2018 à Paris Web](https://www.paris-web.fr/2018/conferences/tempete-de-boulettes-geantes.php), [le 25 octobre 2018 au BlendWebMix](https://www.youtube.com/watch?v=OasaWMC-zPs), puis à l'[Agile Tour Bordeaux](agiletourbordeaux.fr/programme.html) en 2019 et même en 2020 en ligne pour [Beastie Prez](https://freelance.beastiejob.com/beastieprez/beastie_prez_4). Un grand succès pour ce sujet. On dirait que les développeuses et développeurs ont besoin de relativiser. :)
+* **Tempête de boulettes géantes** : comment relativiser et éviter les erreurs humaines causant des incidents en production. [Le 4 octobre 2018 à Paris Web](https://www.paris-web.fr/2018/conferences/tempete-de-boulettes-geantes.php), [le 25 octobre 2018 au BlendWebMix](https://www.youtube.com/watch?v=OasaWMC-zPs), puis à l'[Agile Tour Bordeaux](http://agiletourbordeaux.fr/programme.html) en 2019 et même en 2020 en ligne pour [Beastie Prez](https://freelance.beastiejob.com/beastieprez/beastie_prez_4). Un grand succès pour ce sujet. On dirait que les développeuses et développeurs ont besoin de relativiser. :)
 
 ## 2017
 
