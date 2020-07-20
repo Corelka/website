@@ -8,7 +8,7 @@ Si l'un des sujets ci-dessous vous intéresse, parlons-en !
 
 ## 2020
 
-* **Recettes de communication efficace au travail** que j'aurais dû présenter à [MiXiT](https://mixitconf.org/) (Lyon)… avant que la conférence ne soit annulée pour cause de pandémie. Il s'agissait de montrer comment j'ai adapté certaines recettes issues de la parentalité positive pour mieux communiquer au travail. Si tout se passe bien, je devrais donner cette conférence à Paris à l'automne 2020… Plus d'infos bientôt. ;)
+* **Recettes de communication efficace au travail** que j'aurais dû présenter à [MiXiT](https://mixitconf.org/) (Lyon)… avant que la conférence ne soit annulée pour cause de pandémie. Je la présenterai finalement, si tout se passe bien, au [Forum PHP](https://event.afup.org/forum-php-2020/programme-forum-php-2020/#3560) le 22 ou le 23 octobre à Paris. Il s'agira de montrer comment j'ai adapté certaines recettes issues de la parentalité positive pour mieux communiquer au travail.
 
 ## 2018-2019
 
