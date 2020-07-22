@@ -58,6 +58,4 @@ J'ai de l'expérience dans les domaines techniques suivants :
 
 Je m'applique à faire en sorte que cette liste continue de s'allonger. Je sais m'adapter à un nouveau framework ou à un nouveau langage si le besoin se manifeste.
 
-Allez, on s'appelle ?
-
-{% include cta.html %}
+{% include cta.html label="Allez, on s’appelle" %}

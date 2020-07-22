@@ -6,13 +6,15 @@ Je suis occasionnellement oratrice lors de conférences techniques. Mes sujets d
 
 Si l'un des sujets ci-dessous vous intéresse, parlons-en !
 
+{% include cta.html label="Demander une conférence" %}
+
 ## 2020
 
 * **Recettes de communication efficace au travail** que j'aurais dû présenter à [MiXiT](https://mixitconf.org/) (Lyon)… avant que la conférence ne soit annulée pour cause de pandémie. Je la présenterai finalement, si tout se passe bien, au [Forum PHP](https://event.afup.org/forum-php-2020/programme-forum-php-2020/#3560) le 22 ou le 23 octobre à Paris. Il s'agira de montrer comment j'ai adapté certaines recettes issues de la parentalité positive pour mieux communiquer au travail.
 
 ## 2018-2019
 
-* **Tempête de boulettes géantes** : comment relativiser et éviter les erreurs humaines causant des incidents en production. [Le 4 octobre 2018 à Paris Web](https://www.paris-web.fr/2018/conferences/tempete-de-boulettes-geantes.php), [le 25 octobre 2018 au BlendWebMix](https://www.youtube.com/watch?v=OasaWMC-zPs), puis à l'[Agile Tour Bordeaux](http://agiletourbordeaux.fr/programme.html) en 2019 et même en 2020 en ligne pour [Beastie Prez](https://freelance.beastiejob.com/beastieprez/beastie_prez_4). Un grand succès pour ce sujet. On dirait que les développeuses et développeurs ont besoin de relativiser. :)
+* **Tempête de boulettes géantes** : comment relativiser et éviter les erreurs humaines causant des incidents en production. [Le 4 octobre 2018 à Paris Web](https://www.paris-web.fr/2018/conferences/tempete-de-boulettes-geantes.php), [le 25 octobre 2018 au BlendWebMix](https://www.youtube.com/watch?v=OasaWMC-zPs), puis à l'[Agile Tour Bordeaux](http://agiletourbordeaux.fr/programme.html) en 2019 et même en 2020 en ligne pour [Beastie Prez](https://freelance.beastiejob.com/beastieprez/beastie_prez_4). Un grand succès pour ce sujet. On dirait que les développeuses et développeurs ont besoin de relativiser…
 
 ## 2017
 
