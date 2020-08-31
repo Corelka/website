@@ -1,5 +1,6 @@
 ---
 title: Prendre contact
+meta-description: Prendre contact avec Agnès Haasser, développeuse freelance PHP, Ruby, Opquast, à Lyon et aux alentours.
 ---
 
 Je suis disponible de préférence pour des missions courtes ou à temps partiel (maximum 4 jours par semaine). J'ai l'habitude du télétravail, mais selon vos besoins je suis mobile un à deux jours par semaine pour me rendre dans vos locaux à Lyon et aux alentours. Je peux me déplacer ponctuellement en France ou ailleurs.
