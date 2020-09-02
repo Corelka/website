@@ -41,6 +41,7 @@ J'ai de l'expérience dans les domaines techniques suivants :
         - VanillaCSS
     - JavaScript
         - jQuery
+        - VanillaJS
 - Méthodes de travail
     - Git
         - Revue de code systématique par Pull Requests
@@ -54,6 +55,7 @@ J'ai de l'expérience dans les domaines techniques suivants :
         - <span lang="en">Pair programming</span>
     - Qualité web, gestion de projet
         - Opquast
+        - **Audit Opquast**
         - Aide à l'expression du besoin
 
 Je m'applique à faire en sorte que cette liste continue de s'allonger. Je sais m'adapter à un nouveau framework ou à un nouveau langage si le besoin se manifeste.
