@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf8">
+        <title>Mesures</title>
+        <style>
+            table {
+                margin: 1em auto;
+                border: 2px solid #000;
+                border-collapse: collapse;
+                width: 75%;
+            }
+            td, th {
+                vertical-align: middle;
+                padding: .5em;
+                border: 1px solid #000;
+            }
+            button {
+                border: 1px solid #000;
+                background: #eee;
+                padding: .5em .9em;
+                box-shadow: 3px 3px 0 #000;
+                font-size: 2em;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Mesure des infos utiles pour dev web en JavaScript facile</h1>
+        <p><button onClick="displayStuff()">Calculer</button></p>
+        <table>
+            <tr>
+                <th>Donnée</th>
+                <th>Valeur</th>
+            </tr>
+            <tr>
+                <th>Largeur</th>
+                <td id="width"></td>
+            </tr>
+            <tr>
+                <th>Hauteur</th>
+                <td id="height"></td>
+            </tr>
+            <tr>
+                <th>User-Agent</th>
+                <td id="ua"></td>
+            </tr>
+        </table>
+        <script>
+            function i(id) {
+                return document.getElementById(id);
+            }
+            function displayStuff() {
+                i('width').innerText = window.innerWidth;
+                i('height').innerText = window.innerHeight;
+                i('ua').innerText = window.navigator.userAgent;
+            }
+        </script>
+    </body>
+</html>
