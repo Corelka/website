@@ -20,13 +20,16 @@
                 background: #eee;
                 padding: .5em .9em;
                 box-shadow: 3px 3px 0 #000;
-                font-size: 2em;
+                font-size: 1.2em;
             }
         </style>
     </head>
     <body>
         <h1>Mesure des infos utiles pour dev web en JavaScript facile</h1>
-        <p><button onClick="displayStuff()">Calculer</button></p>
+        <p>
+            <button onClick="displayStuff()">Calculer</button>
+            <button onClick="testBorderRect()">Tester les fonctions</button>
+        </p>
         <table>
             <tr>
                 <th>Donnée</th>
@@ -41,8 +44,8 @@
                 <td id="height"></td>
             </tr>
             <tr>
-                <th>User-Agent</th>
-                <td id="ua"></td>
+                <th>X de la case "largeur"</th>
+                <td id="x"></td>
             </tr>
         </table>
 
@@ -62,7 +65,12 @@
             function displayStuff() {
                 i('width').innerText = window.innerWidth;
                 i('height').innerText = window.innerHeight;
-                i('ua').innerText = window.navigator.userAgent;
+            }
+            funtcion testBorderRect()
+            {
+                var obj = i('width');
+                var rect = obj.getBoundingClientRect();
+                i('x').innerText = rect.x;
             }
         </script>
     </body>
