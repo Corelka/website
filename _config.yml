@@ -67,7 +67,7 @@ footer-link-col: "#404040"
 # whether or not you want to allow users to opt out of tracking.
 matomo:
   site_id: "1"
-  uri: "corelka.matomo.cloud"
+  uri: "analytics.corelka.fr"
   opt-out: true
 
 # Character used to separate site title and description in HTML document title
