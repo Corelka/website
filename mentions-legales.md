@@ -4,7 +4,7 @@ title: Mentions légales
 
 ## Identification de la société
 
-Corelka, SASU au capital de 5000 €, domiciliée au 20 rue Auguste-Charles Siméant, 69310 Pierre-Bénite, France.
+[Corelka](https://annuaire-entreprises.data.gouv.fr/entreprise/883887564), SASU au capital de 5000 €, domiciliée au 20 rue Auguste-Charles Siméant, 69310 Pierre-Bénite, France.
 
 Contact : +33 6 30 89 86 81
 
