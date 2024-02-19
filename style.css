@@ -24,7 +24,14 @@ body {
     background-position: 0% 50%;
   }
 }
+a,
+a:visited {
+  color: #fff;
+}
 
-p {
+main {
+  background: rgba(0, 0, 0, 0.5);
   max-width: 50em;
+  padding: 1em 1.8em;
+  margin: 0.7em 1.5em;
 }
